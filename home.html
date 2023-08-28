@@ -5,21 +5,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home | Jason's Camping Company</title>
     <link rel="stylesheet" href="./styles/styles.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"/>
 </head>
 <body>
+    <!-- header -->
     <section id="header">
-        <a href="#"><img src="./img/logo-no-background.png" alt=""></a>
+        <!-- <a href="#"><img src="./img/logo (2).png" class="logo" alt="logo"></a> -->
 
+        <a href="#"><img src="./img/logo-no-background.svg" class="logo" alt="logo"></a>
+        
         <div>
             <ul id="navbar">
-                <li><a href="home.html">Home</a></li>
+                <li><a class="active" href="home.html">Home</a></li>
                 <li><a href="equipment.html">Equipment</a></li>
                 <li><a href="furniture.html">Furniture</a></li>
                 <li><a href="reviews.html">Reviews</a></li>
                 <li><a href="contact.html">Contact</a></li>
                 <li><a href="basket.html">Basket</a></li>
+                <li id="lg-bag"><a href="cart.html"><i class="far fa-shopping-bag"></i></a></li>
+                <a href="#" id="close"><i class="far fa-times"></i></a>
             </ul>
         </div>
+
+        <div id="mobile">
+            <a href=""><i class="far fa-shopping-bag"></i></a>
+            <i id="bar" class="fas fa-outdent"></i>
+        </div>
     </section>
+
+    <!-- hero -->
+    <section id="hero">
+        <h4>Trade-in-offer</h4>
+        <h2>Super value deals</h2>
+        <h1>On all products</h1>
+        <p>Save more with coupons & up to 70% off!</p>
+        <button>Shop Now</button>
+    </section>
+
+    <!-- Link to JS -->
+    <script src="./js/script.js"></script>
 </body>
 </html>
