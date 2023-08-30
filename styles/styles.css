@@ -35,6 +35,39 @@ p{
     margin: 15px 0 20px 0;
 }
 
+.section-p1{
+    padding: 40px 80px;
+}
+
+.section-m1{
+    margin: 40px 0;
+}
+
+button.normal{
+    font-size: 14px;
+    font-weight: 600;
+    padding: 15px 30px;
+    color: #000;
+    background-color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: 0.2s;
+}
+
+button.white{
+    font-size: 13px;
+    font-weight: 600;
+    padding: 11px 18px;
+    color: #fff;
+    background-color: transparent;
+    cursor: pointer;
+    border: 1px solid #fff;
+    outline: none;
+    transition: 0.2s;
+}
+
 /* Header */
 .logo{
     width: 10%;
@@ -134,10 +167,6 @@ p{
 }
 
 /* Feature */
-.section-p1{
-    padding: 40px 80px;
-}
-
 #feature{
     display: flex;
     align-items: center;
@@ -242,7 +271,7 @@ p{
     font-size: 14px;
 }
 
-#product1 .pro .des i{
+#product1 .pro .des{
     font-size: 12px;
     color: #daa520;
 }
@@ -254,7 +283,7 @@ p{
     color: #800080;
 }
 
-#product1 .pro{
+/* #product1 .pro{
     width: 40px;
     height: 40px;
     line-height: 40px;
@@ -267,4 +296,38 @@ p{
     bottom: 20px;
     right: 10px;
     text-align: center;
+} */
+
+/* Banner */
+#banner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url(../img/banner.jpg);
+    width: 100%;
+    height: 40vh;
+    background-size: cover;
+    background-position: center;
+}
+
+#banner h4{
+    color: #fff;
+    font-size: 16px;
+}
+
+#banner h2{
+    color: #fff;
+    font-size: 30px;
+    padding: 10px 0;
+}
+
+#banner h2 span{
+    color: #ef3636;
+}
+
+#banner button:hover{
+    background: #800080;
+    color: #fff;
 }
