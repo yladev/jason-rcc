@@ -1,0 +1,43 @@
+tent-1 image source => https://www.amazon.com/Eureka-2627700-Timberline-Tent-sleeps/dp/B000EQ813S/ref=sr_1_21?c=ts&keywords=Camping%2BTents&qid=1693537446&s=outdoor-recreation&sr=1-21&ts_id=1258595011&th=1
+
+tent-2 image source => https://www.amazon.com/Big-Agnes-Copper-Bikepack-Person/dp/B08MX1FFZ5/ref=sr_1_13?c=ts&keywords=Camping%2BTents&qid=1693481113&s=outdoor-recreation&sr=1-13&ts_id=1258595011&th=1
+
+tent-3 image source => https://www.amazon.com/Guide-Gear-14-Teepee-Tent/dp/B07VWVWL9R/ref=sr_1_20?c=ts&keywords=Camping+Tents&qid=1693481113&s=outdoor-recreation&sr=1-20&ts_id=1258595011
+
+tent-4 image source => https://www.amazon.com/Eureka-Canyon-Season-Person-Camping/dp/B08QRTVLN1/ref=sr_1_36?c=ts&keywords=Camping+Tents&qid=1693482601&s=outdoor-recreation&sr=1-36&ts_id=1258595011
+
+
+sleeping bag-1 image source => https://www.alibaba.com/product-detail/Portable-Lightweight-Outdoor-Warm-Camping-Sleeping_1600695980484.html?spm=a2700.7735675.0.0.3055wyqYwyqYJd
+
+sleeping bag-2 image source => https://www.alibaba.com/product-detail/Lightweight-Cold-Weather-Warm-Adult-Outdoor_1600709849171.html?spm=a2700.7735675.0.0.72cexujExujEMI&s=p
+
+sleeping bag-3 image source => https://www.alibaba.com/product-detail/Outdoor-Single-Mountaineering-Lightweight-Ultra-light_10000011654582.html?spm=a2700.7735675.0.0.72cexujExujEMI&s=p
+
+sleeping bag-4 image source => https://www.alibaba.com/product-detail/Amazon-Top-Sale-Emergency-Sleeping-Bag_1600715525949.html?spm=a2700.7735675.0.0.72cegJJ7gJJ7F6&s=p
+
+
+pillow-1 image source => https://www.amazon.com/Sea-Summit-Aeros-Ultralight-Pillow/dp/B002OYD87M/ref=sr_1_77?c=ts&keywords=Camping%2BPillows&qid=1693553382&s=outdoor-recreation&sr=1-77&ts_id=3401681&th=1
+
+pillow-2 image source => https://www.amazon.com/ALPS-Mountaineering-Big-Air-Pillow/dp/B0842RY4G9/ref=sr_1_27?c=ts&keywords=Camping+Pillows&qid=1693544798&s=outdoor-recreation&sr=1-27&ts_id=3401681
+
+pillow-3 image source => https://www.amazon.com/ljhnba-Inflating-Ergonomic-Flocking-Inflatable/dp/B0CBWM7ZX5/ref=sr_1_34?c=ts&keywords=Camping+Pillows&qid=1693544798&s=outdoor-recreation&sr=1-34&ts_id=3401681
+
+pillow-4 image source => https://www.amazon.com/WiseLight-Inflatable-Compressible-Backpacking-Airplanes/dp/B08D69Y9LW/ref=sr_1_110?c=ts&keywords=Camping+Pillows&qid=1693552942&s=outdoor-recreation&sr=1-110&ts_id=3401681
+
+
+suit-1 image source => https://www.alibaba.com/product-detail/Hot-Sale-Outdoor-Men-S-Uniform_1600893048658.html?spm=a2700.7735675.0.0.247cXni6Xni6a3&s=p
+
+suit-2 image source => https://www.alibaba.com/product-detail/Waterproof-Windproof-And-Warm-Shark-Skin_1600138070023.html?spm=a2700.7735675.0.0.7e4dF6zaF6zaI1
+
+suit-3 image source => https://www.alibaba.com/product-detail/High-Quality-1PC-145-68CM-EVA_1600904418654.html?spm=a2700.galleryofferlist.normal_offer.d_image.5e49798fjN0XSB
+
+suit-4 image source => https://www.alibaba.com/product-detail/New-Design-Rain-Suit-BIB-Pants_1600820629448.html?spm=a2700.galleryofferlist.normal_offer.d_image.65c1798fozThcU
+
+
+sunglasses image source => https://www.alibaba.com/product-detail/Cycling-Polarized-Glasses-Outdoor-Tactical-Dust_60801016021.html?spm=a2700.galleryofferlist.normal_offer.d_image.26df6a64dpbL1D
+
+hat image source => https://www.alibaba.com/product-detail/Summer-Quick-Dry-Mesh-Baseball-Cap_10000008285083.html?spm=a2700.galleryofferlist.normal_offer.d_image.dc4271fdJBJ2RK
+
+shoes image source => https://www.alibaba.com/product-detail/Men-s-Side-Zip-Safety-Desert_1600705305068.html?spm=a2700.galleryofferlist.normal_offer.d_image.5687601dv8bXLr
+
+boots image source => https://www.alibaba.com/product-detail/Black-Fashion-Matt-Surface-Medium-PVC_62523537921.html?spm=a2700.galleryofferlist.p_offer.d_image.3cc946dchgyGf9&s=p
