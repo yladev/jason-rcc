@@ -264,6 +264,11 @@ button.white{
 #product1 .pro img{
     width: 100%;
     border-radius: 20px;
+    transition: transform .2s;
+}
+
+#product1 .pro img:hover{
+    transform: scale(1.05);
 }
 
 #product1 .pro .des{
