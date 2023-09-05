@@ -5,6 +5,23 @@
     font-family: 'Spartan', sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar{
+    width: auto;
+}
+
+::-webkit-scrollbar-track{
+    background: #a64ca6;
+}
+
+::-webkit-scrollbar-thumb{
+    border-radius: 1rem;
+    background: #800080;
+}
+
 body{
     width: 100%;
 }
@@ -440,4 +457,9 @@ footer a:hover{
 footer .copyright{
     width: 100%;
     text-align: center;
+}
+
+.link{
+    color: #800080;
+    text-decoration: underline;
 }
