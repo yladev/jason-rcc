@@ -1163,6 +1163,26 @@ footer .copyright{
         font-size: 24px;
     }
 
+    #feature{
+        justify-content: center;
+    }
+
+    #feature .fe-box{
+        margin: 15px 15px;
+    }
+
+    #product1 .pro-container{
+        justify-content: center;
+    }
+
+    #product1 .pro{
+        margin: 15px;
+    }
+
+    #banner{
+        height: 25vh;
+    }
+
     #newsletter .form{
         width: 70%;
     }
@@ -1206,6 +1226,23 @@ footer .copyright{
         font-size: 32px;
     }
 
+    #feature{
+        justify-content: space-between;
+    }
+
+    #feature .fe-box{
+        width: 155px;
+        margin: 0 0 15px 0;
+    }
+
+    #product1 .pro{
+        width: 100%;
+    }
+
+    #banner{
+        height: 40vh;
+    }
+
     #newsletter{
         padding: 40px 20px;
     }
@@ -1246,5 +1283,19 @@ footer .copyright{
     #form-details form{
         width: 100%;
         margin-bottom: 30px;
+    }
+
+    /* Cart Page */
+    #cart-add{
+        flex-direction: column;
+    }
+
+    #coupon{
+        width: 100%;
+    }
+
+    #subtotal{
+        width: 100%;
+        padding: 20px;
     }
 }
