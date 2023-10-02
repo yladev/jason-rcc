@@ -1217,7 +1217,7 @@ footer .copyright{
 
 @media(max-width: 477px) {
     body{
-        overflow: hidden;
+        overflow-x: hidden;
     }
 
     .logo{
