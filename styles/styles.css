@@ -1216,10 +1216,6 @@ footer .copyright{
 }
 
 @media(max-width: 477px) {
-    body{
-        overflow-x: hidden;
-    }
-
     .logo{
         width: 25%;
     }
