@@ -1103,6 +1103,11 @@ footer .copyright{
         width: 20%;
     }
 
+    /* Slide Show */
+    .slide-show{
+        height: 97vh;
+    }
+
     /* Reviews */
     .testimonial-box{
         width: 45%;
@@ -1161,6 +1166,11 @@ footer .copyright{
         left: 30px;
         color: #222;
         font-size: 24px;
+    }
+
+    /* Slide Show */
+    .slide-show{
+        height: 73vh;
     }
 
     #feature{
@@ -1225,6 +1235,18 @@ footer .copyright{
     h2{
         font-size: 32px;
     }
+
+    /* Slide Show */
+    .slide-show{
+        height: 40vh;
+    }
+
+    .text-box{
+        width: auto;
+        top: -30px;
+        left: 15px;
+    }
+    /* End of Slide Show */
 
     #feature{
         justify-content: space-between;
